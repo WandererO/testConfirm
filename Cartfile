@@ -1,0 +1,5 @@
+git "https://github.com/zhuhaow/NEKit" "master"
+github "soffes/CommonCrypto"
+github "Alamofire/Alamofire" ~> 4.5
+github "alibaba/HandyJSON" ~> 1.8.0
+github "SVProgressHUD/SVProgressHUD"

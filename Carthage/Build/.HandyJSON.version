@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.8.0",
+  "iOS" : [
+    {
+      "name" : "HandyJSON",
+      "hash" : "74eb5834bf970891dd3537e089e01f183740177847509b00e5806bbad976050f"
+    }
+  ]
+}
